@@ -115,7 +115,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/lib.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/6ab4f84f4913522d0aa6f57aed65f8bfade32402/chunk-001.nq.gz",
+      "dep": "dep/6ab4f84f4913522d0aa6f57aed65f8bfade32402.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
