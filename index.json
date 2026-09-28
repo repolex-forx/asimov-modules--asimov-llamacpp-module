@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-llamacpp-module",
+  "versions": [
+    {
+      "commit": "6ab4f84f4913522d0aa6f57aed65f8bfade32402",
+      "tag": "0.0.2",
+      "parsed_at": "2026-09-28T07:36:50.216162+00:00"
+    }
+  ]
+}
